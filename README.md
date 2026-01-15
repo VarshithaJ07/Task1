@@ -6,12 +6,16 @@ This project involves exploratory data analysis on the Titanic dataset to unders
 Dataset Information:
 
 Dataset: Titanic – Machine Learning from Disaster (Kaggle)
+
 Records: 418 rows
+
 Features: 12
+
 Target Variable: Survived (0 = Died, 1 = Survived)
+
 Learning Type: Binary Classification
 
-Task Objectives
+Task Objectives:
 
 Load and inspect the dataset
 
@@ -21,7 +25,7 @@ Analyze missing values and feature quality
 
 Assess dataset suitability for ML models
 
-Deliverables
+Deliverables:
 
 titanic.ipynb — dataset exploration and analysis
 
