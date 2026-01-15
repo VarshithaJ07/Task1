@@ -35,6 +35,12 @@ report.pdf — titanic/report.pdf
 
 
 
+
+
+
+
+
+
 2.Student Performance Dataset Analysis
 
 This project analyzes the Student Performance dataset to understand academic and behavioral factors affecting student GPA and to assess dataset suitability for machine learning.
