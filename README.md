@@ -33,3 +33,61 @@ titanic_dataset.csv — dataset used for analysis
 
 report.pdf — titanic/report.pdf
 
+
+
+2.Student Performance Dataset Analysis
+
+This project analyzes the Student Performance dataset to understand academic and behavioral factors affecting student GPA and to assess dataset suitability for machine learning.
+
+Dataset Information:-
+
+Records:2392
+
+Features: 15
+
+Target Variable: GPA (Regression)
+
+Task Type: Supervised Learning
+
+Objectives:-
+
+Inspect dataset structure
+
+Identify feature types
+
+Analyze missing values
+
+Extract insights about academic performance
+
+Assess ML suitability
+
+Key Observations:-
+
+Dataset contains no missing values
+
+Includes both numerical + categorical + binary variables
+
+Factors like StudyTimeWeekly, Absences, Tutoring, and ParentalSupport influence GPA
+
+ML Suitability:-
+
+The dataset is suitable for regression models after encoding categorical variables and removing identifiers like StudentID.
+
+Tech Used:-
+
+Python
+
+Pandas
+
+NumPy
+
+Jupyter Notebook
+
+Deliverables:-
+
+Students_performance.ipynb
+
+Student_performance.csv
+
+student_performance_report.pdf
+
